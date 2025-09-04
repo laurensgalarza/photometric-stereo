@@ -10,9 +10,3 @@ This project applies **photometric stereo** to estimate object surface propertie
 - **Light estimation:** Determined light source directions from calibration sphere images.  
 - **Surface reconstruction:** Used linear algebra (matrix inversion) to solve for per-pixel surface normals and albedo.  
 - **Visualization:** Generated output images showing surface orientations (needle plots) and reflectance maps.  
-
-## Skills Demonstrated  
-- Linear algebra and numerical methods  
-- Image analysis and preprocessing  
-- Debugging geometric/matrix math issues  
-- Data visualization for interpreting results  
